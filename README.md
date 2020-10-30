@@ -14,6 +14,10 @@ Creates a discord bot that can view various types of information for your life's
 - [Discord Bot Token](https://discord.com/developers/applications)
 - [a3ldb](https://www.npmjs.com/package/arma3-life-db)
 
+## Installation
+1. Run the command `npm i --save arma3-life-discord-bot`
+2. Done! Now to configure.
+
 ## Configuration
 ### Package
 Add this to the top of your file
