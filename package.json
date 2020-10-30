@@ -1,6 +1,6 @@
 {
   "name": "arma3-life-discord-bot",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Creates a discord bot that can post & process various types of information for your life's database on arma 3.",
   "main": "lib/index.js",
   "scripts": {
@@ -10,7 +10,16 @@
     "type": "git",
     "url": "git+https://github.com/plusflabby/arma3-life-discord-bot.git"
   },
-  "keywords": [],
+  "keywords": [
+    "Arma3",
+    "Arma",
+    "Life",
+    "MaldenLife",
+    "TanoaLife",
+    "AltisLife",
+    "Discord",
+    "Bot"
+  ],
   "author": "+Flabby",
   "license": "ISC",
   "bugs": {
