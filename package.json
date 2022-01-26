@@ -1,8 +1,9 @@
 {
   "name": "arma3-life-discord-bot",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Creates a discord bot that can post & process various types of information for your life's database on arma 3.",
   "main": "src/index.js",
+  "types": "src/index.d.ts",
   "scripts": {
     "example": "node example/index"
   },
